@@ -1,0 +1,60 @@
+.resimslider{
+    height: 600px;
+}
+body{
+    padding-top: 50px;
+    font-family: 'Raleway', sans-serif;
+
+}
+.hakkimizda{
+    border-bottom: 1px solid rgb(167, 165, 165);
+    background-color: white;
+}
+.hakkimizda img{
+    width: 80px;
+    height: 80px;
+    position: relative;
+    top: -80px;
+    
+}
+.ayrac{
+    border: none;
+    border-top: 3px solid #343a40;
+    max-width: 250px;
+    margin:25px auto;
+}
+.ekibimiz{
+    background-color: white;
+}
+.ekibimiz img{
+    width: 80px;
+    height: 80px;
+    position: relative;
+    top: -80px;
+}
+
+.galeri img{
+    width: 80px;
+    height: 80px;
+    position: relative;
+    top: -80px;
+}
+.figure:hover{
+    opacity: 0.8;
+}
+.container{
+    
+    margin-bottom: 10px;
+}
+.iletisim img{
+    width: 80px;
+    height: 80px;
+    position: relative;
+    top: -80px;
+}
+.forms{
+    
+    margin-bottom: 10px;
+    margin-left: 100px;
+}
+
